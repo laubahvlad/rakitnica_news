@@ -20,7 +20,7 @@ img {
     box-shadow: 0 0 8px black;
 }
 
-h1, h2 {
+h1, h2, h3 {
     color: red;
     text-shadow: 1px 1px 1px black;
     text-transform: uppercase;
